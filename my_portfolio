@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Your Portfolio</title>
+</head>
+
+<body>
+
+    <img src="chico.png" alt="Chico" height="200px">
+    <h1>Chico, Christopher Jake R.</h1>
+
+    <h2>Quote: "Ignorance is Bliss"</h2>
+
+    <br>
+    <h2>Skills:</h2>
+    <h3>- Cooperative</h3>
+    <h3>- Eager to learn</h3>
+    <h3>- Critical Thinker</h3>
+    <h3>- Good at Time Management</h3>
+
+    <br>
+    <h2>About Me</h3>
+    <p style="font-size: 20px">
+       I'm a College Student aspiring to be a Backend Developer, My favorite programming language is Java and <br> wanting to master it. Considering my skills right now, I am not satisfied in terms of my progress. I am an avid gamer, <br> I play games whenever I have the time to but still manage my tasks well. I have a schedule that I always make to be able <br> to manage the things to be done and not forget about it. I also am into making computers may it be looking at pc parts or fixing it.
+     </p>
+
+
+
+</body>
+
+</html>
